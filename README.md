@@ -18,3 +18,5 @@ This repository contains a comprehensive interactive dashboard built to analyze 
 ## 📁 Repository Contents
 * `Date M Code.txt` - Custom M code used for the calendar/date table transformation.
 * `Unpivot_Demo.csv` - Sample/processed dataset utilized during the data cleaning phase.
+* <img width="1199" height="673" alt="image" src="https://github.com/user-attachments/assets/211384a2-e1e8-490e-9851-b1ac526bc30a" />
+
